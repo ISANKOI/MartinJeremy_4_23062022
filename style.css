@@ -72,6 +72,22 @@ a:hover {
     background-size: auto!important;
 }
 
+.slogan {
+    font-size: 22px;
+    max-width: 700px;
+    margin: auto;
+}
+
+.citation {
+    font-size: 19px;
+    font-style: italic;  
+}
+
+.citation-author {
+    font-size: 16px;
+    
+}
+
 .bg-repeat {
     background: repeat;
 }
@@ -135,6 +151,8 @@ a:hover {
 .d-bloc p a {
     color: rgba(255, 255, 255, .6);
 }
+
+
 
 .d-bloc .a-btn:hover,
 .d-bloc .navbar a:hover,
@@ -511,18 +529,20 @@ button {
 }
 
 .scrollToTop {
+    background: #DF3602;
     width: 40px;
     height: 40px;
     position: fixed;
     bottom: 20px;
     right: 20px;
-    opacity: 0;
+    opacity: 1;
     z-index: 500;
     transition: all .3s ease-in-out;
 }
 
 .scrollToTop span {
     margin-top: 6px;
+    color: #FFFFFF;
 }
 
 .showScrollTop {
@@ -739,6 +759,10 @@ h4 {
     color: #FFFFFF!important;
 }
 
+.creation {
+    font-size: 22px;
+    line-height: 30px;
+}
 .portfolio-thumb {
     margin-bottom: 24px;
 }
