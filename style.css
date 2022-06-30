@@ -763,6 +763,9 @@ h4 {
     font-size: 22px;
     line-height: 30px;
 }
+.img-responsive{
+    width: 570px;
+}
 .portfolio-thumb {
     margin-bottom: 24px;
 }
