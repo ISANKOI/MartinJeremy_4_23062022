@@ -529,7 +529,7 @@ button {
 }
 
 .scrollToTop {
-    background: #DF3602;
+    background: #79301B;
     width: 40px;
     height: 40px;
     position: fixed;
@@ -780,7 +780,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(121, 48, 27, .9);
     padding: 40px 40px 40px 40px;
 }
 
@@ -798,7 +798,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #DF3602;
+    background-color: #79301B;
 }
 
 .tc-white {
@@ -806,12 +806,12 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #DF3602;
+    background: #79301B;
     color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
+    background: #df3602!important;
     color: #FFFFFF!important;
 }
 
@@ -824,11 +824,11 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #DF3602!important;
+    color: #79301B!important;
 }
 
 .ltc-atomic-tangerine:hover {
-    color: #c27956!important;
+    color: #df3602!important;
 }
 
 .icon-dark-slate-blue {
