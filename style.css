@@ -79,12 +79,12 @@ a:hover {
 }
 
 .citation {
-    font-size: 19px;
+    font-size: 20px;
     font-style: italic;  
 }
 
 .citation-author {
-    font-size: 16px;
+    font-size: 18px;
     
 }
 
@@ -697,7 +697,7 @@ a {
 }
 
 p {
-    font-size: 14px;
+    font-size: 16px;
 }
 
 .tight-width-whitespace {
@@ -722,15 +722,18 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
 }
 
 h2 {
-    font-size: 22px;
+    font-size: 24px;
     line-height: 1.4em;
 }
 
 h3 {
-    font-size: 15px;
+    font-size: 16px;
     text-transform: uppercase;
     font-weight: 700;
     color: #333333!important;
@@ -760,9 +763,9 @@ h4 {
 }
 
 .creation {
-    font-size: 22px;
     line-height: 30px;
 }
+
 .img-responsive{
     width: 570px;
 }
@@ -780,7 +783,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(121, 48, 27, .9);
+    background-color: #79301b;
     padding: 40px 40px 40px 40px;
 }
 
